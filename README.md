@@ -3,5 +3,5 @@
 Most of the files are simple assignments from class.
 
 There are two major projects.
-- The retention classifier
-- The final project
+- The customer retention classifier (Class Kaggle competition)
+- The final project (Obesity rate prediction per city)
