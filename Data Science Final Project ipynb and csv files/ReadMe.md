@@ -1,3 +1,4 @@
+## This project predicted obesity rates of large cities.
 This data science project used the website www.city-data.com to scrape information about major cities in the US, which was then used to predict the cities obesity rates. 
 
 The code iterates through each state creating a links to the majors cities and stores them in a CSV file.
