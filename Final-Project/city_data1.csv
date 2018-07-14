@@ -1,0 +1,919 @@
+City,State,Population,high_school,bachelor,graduate,unemployment,median_income,obesity_rate
+Anchorage,Alaska,301010,92.7,33.1,11.2,6.8,79045,25.9
+Auburn,Alabama,60258,94.9,61.3,28.9,7.4,39903,30.2
+Birmingham,Alabama,212247,87.1,25.3,8.7,10.8,32378,31.1
+Decatur,Alabama,55532,82.7,24.9,7.8,5.7,42837,35
+Dothan,Alabama,68409,87.7,24.8,9.2,7.9,44208,33
+Hoover,Alabama,84353,96.2,54.1,20.2,2.5,77365,31.1
+Huntsville,Alabama,188226,91.4,42.3,16.9,6.9,46769,30.9
+Mobile,Alabama,194675,86.6,28.3,9.7,8.3,38678,29.9
+Montgomery,Alabama,200481,85.5,31.7,11.7,6.9,41836,33
+Tanner-Williams,Alabama,60211,88.3,29.8,10.4,5.6,54698,29.9
+Tuscaloosa,Alabama,96122,86.8,37.8,15,3.3,44125,32.2
+Conway,Arkansas,64490,92.9,37.3,14.1,9.2,46923,29.1
+Fayetteville,Arkansas,80621,92.2,48.5,19.3,13.9,39546,25.2
+Fort Smith,Arkansas,87351,77.7,19,5.1,3.5,33534,27.8
+Jonesboro,Arkansas,72210,91.9,29.1,10.5,6.4,38094,29.3
+Little Rock,Arkansas,197706,90.8,39.7,16.9,6,44251,27
+North Little Rock,Arkansas,66810,83.2,24.6,7,4.6,39686,27
+Rogers,Arkansas,61464,82.2,28.6,9.9,3,55326,27
+Springdale,Arkansas,76565,75.5,22.4,5.9,4.9,48953,25.2
+Arivaca,Arizona,59243,81.7,21.7,7.8,6.5,45034,21.2
+Avondale,Arizona,79646,80.4,19,6.1,4.3,51206,22.5
+Buckeye,Arizona,59470,84.3,16.2,3.8,5.8,60868,22.5
+Casa Grande,Arizona,51478,86.4,17.4,5.9,7.8,45507,28.1
+Casas Adobes,Arizona,66795,93.7,35.3,14.7,4.5,54766,21.2
+Catalina Foothills,Arizona,50796,98,63.8,33.7,3.8,80181,21.2
+Chandler,Arizona,254276,93,43.2,15.7,3.4,75562,22.5
+Coconino,Arizona,81338,90.3,38.3,14.8,4.7,56573,21.5
+Deer Valley,Arizona,186030,93.2,33.6,10.6,3.4,84557,22.5
+Flagstaff,Arizona,68785,94.4,44.7,21.8,5.1,51616,21.5
+Gilbert,Arizona,239277,95.8,40.5,14.3,2.5,86045,22.5
+Glendale,Arizona,237517,82.5,21.3,7.4,5,45812,22.5
+Goodyear,Arizona,75664,93,30.1,12.9,4.1,73164,22.5
+Lake Havasu City,Arizona,53103,88.5,13.8,5.5,7.6,45541,26.2
+Mesa,Arizona,464704,87.1,25.2,8.2,4.7,49177,22.5
+North Pinal,Arizona,100105,80,12.5,4.3,6.1,52506,28.1
+Peoria,Arizona,166934,93,29.4,10.6,3.9,66308,22.5
+Phoenix,Arizona,1537058,80.2,26.6,9.4,5,48452,22.5
+San Tan Valley,Arizona,81321,89.7,15.1,4.4,7.4,50770,28.1
+Scottsdale,Arizona,230512,94.6,55.1,20.1,3.1,75346,22.5
+Surprise,Arizona,126275,92.3,26.3,9.9,5.7,65688,22.5
+Tempe,Arizona,172816,92.3,43.8,19.1,4.3,51688,22.5
+Tucson,Arizona,527972,83.2,26.5,10.7,7.2,38155,21.2
+Yuma,Arizona,93400,77.7,18,7.3,9.1,43663,25.7
+Alameda,California,77660,88.2,46.1,18.6,4.4,75212,19.3
+Alhambra,California,85569,81.4,36.4,10.7,6.8,51532,20.4
+Aliso Viejo,California,50231,96.8,59.4,18.8,2.6,97735,18.5
+Anaheim,California,346997,76.4,24.9,7.9,7.9,57550,18.5
+Antioch,California,108930,85.9,19.4,4.2,5.2,59356,22.2
+Apple Valley,California,71595,87.5,15.9,7.7,8.9,48734,27.1
+Arcadia,California,58232,92.2,51.9,19.6,4.4,75786,20.4
+Arden-Arcade,California,92186,92.1,33.8,11.5,6.4,46340,25
+Bakersfield,California,368759,79.3,21.4,7.5,8.5,61039,29.4
+Baldwin Park,California,77119,65.7,13.9,3.2,9.9,47502,20.4
+Bellflower,California,78236,75.8,19.6,4.9,8,50692,20.4
+Berkeley,California,118853,95.8,73.1,40.6,5.5,73462,19.3
+Brentwood,California,57019,90.6,29.3,7.3,4,95960,22.2
+Buena Park,California,83105,81.2,30.8,6.4,6.1,68656,18.5
+Burbank,California,105368,91.3,38.4,13.7,6.3,70816,20.4
+Camarillo,California,66923,89.8,41.2,16.6,3.6,85495,23.1
+Carlsbad,California,112299,95.6,54.8,23.3,5.3,96346,22.2
+Carmichael,California,61762,91.8,31.9,14.2,7.7,51844,25
+Carson,California,93271,79.1,26.8,6.1,7.9,77162,20.4
+Castro Valley,California,61388,92.2,37.2,13.1,4.1,92499,19.3
+Cathedral City,California,53437,75.3,16.7,6.2,6.8,41062,24.5
+Central Coast,California,238434,88.6,46.3,17.3,4.9,83125,18.5
+Central Contra Costa,California,486883,92.4,45.8,16.3,3.6,95353,22.2
+Cerritos,California,50004,91.7,48.2,17.2,3.9,95043,20.4
+Chico,California,89180,92.9,40.1,12.1,9.5,45598,25.1
+Chino Hills,California,77005,92.5,43.1,14.7,4.9,102890,27.1
+Chino,California,84723,75.1,17,5.2,7.4,72155,27.1
+Chula Vista,California,260988,82.3,29.8,8.5,6.4,66868,22.2
+Citrus Heights,California,86145,91.2,18.4,4,4.5,49808,25
+Clovis,California,102189,92.1,29.8,11.3,6.2,62863,26.4
+Coachella Valley,California,156830,54.3,11.6,4.2,9.7,48468,24.5
+Colton,California,54053,70.1,12.7,4.9,8.8,41853,27.1
+Compton,California,98597,58.9,9.6,2.9,13.7,45676,20.4
+Concord,California,127522,86.7,33.5,8.9,5.2,72114,22.2
+Corona,California,161486,85.8,27.6,8.6,5.4,71291,24.5
+Costa Mesa,California,112784,83.8,40.3,13.8,4.7,72128,18.5
+Cupertino,California,60668,96.7,76,42.4,4.2,150841,19
+Daly City,California,106094,86.7,35.6,6.8,3.8,81355,16.9
+Davis,California,66742,96.1,72.5,43.3,4.4,58176,17.4
+Delano,California,52651,55,7.1,1.4,13.1,37630,29.4
+Diamond Bar,California,56784,92.1,50.9,17.2,5.7,93886,20.4
+Downey,California,114172,75.8,20.2,5.1,6.5,69860,20.4
+Dublin,California,54695,92,54.4,20.2,3.1,128351,19.3
+East Contra Costa,California,78216,85.1,19.1,4.5,3.8,89354,22.2
+East Kern,California,82330,83.1,18.2,7.1,8.8,60693,29.4
+East Los Angeles,California,126496,47.4,8.6,1.6,11.4,41220,20.4
+East San Gabriel Valley,California,952352,72,22.4,7.4,7.3,72713,20.4
+Eastvale,California,57016,87.7,35.8,12.2,6.3,58292,24.5
+El Cajon,California,103091,82,19.2,6.4,7.8,49227,22.2
+El Monte,California,116631,57,13.2,3.6,9.9,41632,20.4
+El Toro,California,178968,93.8,49.7,17.4,3,103514,18.5
+Elk Grove,California,163553,90.7,36.3,9.2,5,84454,25
+Elsinore Valley,California,93311,76.4,13.2,3.6,6,68356,24.5
+Encinitas,California,62254,94.4,59.4,24.8,4.4,99604,22.2
+Escondido,California,150243,76.2,23,7.6,6.2,54284,22.2
+Fairfield,California,111125,86.7,26.5,8.1,6.6,70776,25.1
+Florence-Graham,California,63387,41.7,7,1.4,16,40310,20.4
+Folsom,California,75361,94.1,52.5,22.6,3.6,105278,25
+Fontana,California,204950,70.8,13.9,3.6,8.7,64297,27.1
+Fountain Valley,California,57010,90.2,39.8,12.6,4.6,84433,18.5
+Fremont,California,228758,94.5,54,25.9,3.9,112263,19.3
+Fresno,California,515986,75.5,19.3,6,9.2,43494,26.4
+Fullerton,California,139677,83.5,40.3,14.9,5.7,68801,18.5
+Garden Grove,California,175078,72.2,18.9,4.3,6.8,58123,18.5
+Gardena,California,60395,81.8,23.2,5.5,6.5,50166,20.4
+Gilroy,California,52533,77,25.1,8.1,5.9,88225,19
+Glendale,California,200167,86.1,39.4,14.5,7.2,58076,20.4
+Glendora,California,51442,90.2,32.5,12.3,5.3,79077,20.4
+Hacienda Heights,California,54038,85.8,35.9,10.7,4,82119,20.4
+Hanford,California,55065,80.8,18.8,5.7,7.3,53132,21.4
+Hawthorne,California,87583,74.3,16.6,4.4,10.5,41933,20.4
+Hayward,California,154612,82.7,25.5,6.4,5.1,74723,19.3
+Hemet,California,83032,79.1,10,3.2,15.3,36334,24.5
+Hesperia,California,92749,79.2,10.6,3.7,10.6,46169,27.1
+Highland,California,54651,75,19.2,8.9,6.7,54224,27.1
+Huntington Beach,California,200809,92,41.8,16.9,3.9,85778,18.5
+Huntington Park,California,59362,41.4,5.8,1.2,11.8,36711,20.4
+Indio,California,85633,77.3,17.1,4.9,7.6,52343,24.5
+Inglewood,California,111905,73.3,17.9,4.7,11.1,42122,20.4
+Irvine,California,248531,96.6,69.1,29.6,5.1,93781,18.5
+Jurupa,California,112225,63.5,7.3,2.3,8.2,59526,24.5
+La Habra,California,62066,81.5,23.6,7.3,5.8,64618,18.5
+La Mesa,California,59177,91,34.7,11.3,5.3,57227,22.2
+Laguna Niguel,California,65448,96.2,52,20.5,3.9,86662,18.5
+Lake Elsinore,California,60029,76.9,16.3,5,7.1,63076,24.5
+Lake Forest,California,80148,92.2,46.3,17.8,3.4,87084,18.5
+Lakewood,California,81653,89.9,30.6,9.5,5,82027,20.4
+Lancaster,California,161043,85,15.2,5.3,11.2,49729,20.4
+Livermore,California,86870,93.2,42.3,15.1,3.4,110212,19.3
+Lodi,California,63950,80.4,18.7,6.5,7.4,49715,29.2
+Lompoc Valley,California,58405,80,18.7,6.7,8.2,57014,22.2
+Long Beach,California,473577,78.9,29.5,10.7,5.1,54971,20.4
+Loomis Basin-Folsom Lake,California,89014,93.8,38.6,12.4,2.7,93004,17.6
+Los Angeles,California,3928864,76.4,32.6,11.1,6,52024,20.4
+Lynwood,California,71839,58.1,7.4,1.8,12.9,46241,20.4
+Madera,California,63605,58.2,9,2.3,18.7,42321,15.5
+Manteca,California,73494,83,14,3.6,8.2,60716,29.2
+Mather,California,108400,86.9,25.6,7.5,5.7,60260,25
+Menifee,California,85182,85.4,17.5,7.9,7.4,58292,24.5
+Merced,California,81743,74.6,19.5,8.3,13.1,34321,29.5
+Milpitas,California,73672,88.9,47.1,16.9,5.3,102200,19
+Mission Viejo,California,97209,92.7,45.5,16.1,3.5,106104,18.5
+Modesto,California,209286,80.3,18.3,6.1,10.1,51901,28
+Montebello,California,63929,71.7,18.7,5.3,4.4,48273,20.4
+Monterey Park,California,61458,78.7,30.4,9.2,5.8,56925,20.4
+Moreno Valley,California,202976,74,15,4.7,8.5,56025,24.5
+Mountain View,California,79378,94.1,65.9,37.8,3.8,120102,19
+Murrieta,California,108368,92.1,28.8,9.3,4.6,74594,24.5
+Napa,California,80011,82.1,30.1,9.1,4.5,74315,16.9
+National City,California,60343,72.3,12.9,2.4,10.7,43377,22.2
+Newhall,California,192980,86.8,29.1,8.7,4.7,93686,20.4
+Newport Beach,California,87266,97.9,64.1,26,4,123351,18.5
+North Antelope Valley,California,153969,78.2,15.4,5.4,10.9,57794,20.4
+North Coast,California,376527,84.9,31.4,10.4,4.2,80181,18.5
+Northeast Marin,California,54172,91.2,38,12.6,3.4,93433,17.1
+Norwalk,California,107096,75.5,17.1,3.9,8.3,58957,20.4
+Novato,California,55005,93.3,44.8,17.8,4.1,84667,17.1
+Oakland,California,413775,79.5,40,17.6,8.4,58807,19.3
+Oceanside,California,174558,87,28.4,9.4,7.7,60720,22.2
+Ontario,California,169089,72.1,15.6,4.1,8.9,57361,27.1
+Orange,California,139812,85.6,36,11.2,4.9,83429,18.5
+Oxnard,California,205437,65.7,16.7,5.1,7.5,59830,23.1
+Palm Desert,California,51202,91.3,35.5,13.1,5.9,54470,24.5
+Palmdale,California,158279,76.5,13.3,3.7,9.8,52014,20.4
+Palo Alto,California,66955,96.4,79.9,51.8,3.1,147737,19
+Palos Verdes,California,91593,92.2,51.5,22.4,3.3,114798,20.4
+Paramount,California,55406,57.9,8.2,2.2,11.5,48186,20.4
+Pasadena,California,140881,86.8,49.5,23.2,4.7,77312,20.4
+Perris Valley,California,190588,72.2,11.1,3.7,9.1,52511,24.5
+Perris,California,73756,62.7,6.9,1.3,11.6,55074,24.5
+Petaluma,California,59953,89.2,37.2,12.1,4.3,83318,19.8
+Pico Rivera,California,64235,68.2,11.2,2.6,6.6,58667,20.4
+Pittsburg,California,68140,79.2,20,6.1,7.8,61878,22.2
+Placentia,California,52397,84.6,34.8,12.1,5,81594,18.5
+Pleasanton,California,77682,94.4,61.9,27.5,3,134801,19.3
+Pomona,California,153350,68.6,19.7,5.8,9.9,51266,20.4
+Porterville,California,55466,66.9,11,3.4,12.3,38806,28.2
+Rancho Cordova,California,69740,90.2,27,6.4,7.3,59552,25
+Rancho Cucamonga,California,174305,92.7,31.4,11.9,5.4,80720,27.1
+Redding,California,91593,92.6,28.1,9.5,7.7,45490,25.3
+Redlands,California,70622,89.6,37.3,16.9,6.4,66148,27.1
+Redondo Beach,California,68149,96.7,60.4,23.2,4.3,101592,20.4
+Redwood City,California,82881,84.1,46.4,21.9,3.3,97750,16.9
+Rialto,California,102741,66,9.4,2.2,10.6,52080,27.1
+Richmond,California,108565,80.4,26,9.3,7.7,56374,22.2
+Riverside,California,319504,79.4,22.2,8.7,7.9,61279,24.5
+Rocklin,California,60344,95.8,39.7,11.9,2.7,82085,17.6
+Rosemead,California,54947,66.2,16.8,3.9,6.5,47254,20.4
+Roseville,California,128615,92.5,37.2,11.1,4,72312,17.6
+Ross Valley,California,59297,90.6,53.9,22,2.9,103814,17.1
+Sacramento,California,485199,83.4,30.3,10.4,6.6,52151,25
+Salinas,California,156677,56.5,13.1,3.5,12,52334,21.8
+San Bernardino,California,215213,68.6,12.2,4.2,11.4,35932,27.1
+San Clemente,California,65326,94.5,52.1,17,3.8,100187,18.5
+San Diego,California,1381069,87.1,44.3,18.5,5.6,67871,22.2
+San Francisco,California,852469,87.6,55.2,22,4.4,92094,16.1
+San Gorgonio Pass,California,70591,75.8,12.3,5.4,8.9,45113,24.5
+San Jose,California,1015785,83.4,40.7,16.8,5.2,91451,19
+San Leandro,California,89351,81.6,29.5,8.1,5.2,59070,19.3
+San Marcos,California,92929,85.3,33.2,12.1,4,66318,22.2
+San Mateo,California,102893,88,51.5,20.9,2.8,100238,16.9
+San Rafael,California,59237,85.8,46.6,20,3.7,83431,17.1
+San Ramon,California,75332,96.1,66.7,25.8,1.8,125832,22.2
+Santa Ana,California,334909,54.2,11.5,3.5,5,54392,18.5
+Santa Barbara,California,91196,84.8,48.4,19.3,5.8,64414,22.2
+Santa Clara,California,122192,91.4,55.3,25.3,3.4,108886,19
+Santa Clarita,California,181557,89.5,33.7,10.1,4.8,85916,20.4
+Santa Cruz,California,63364,92.8,51.5,22.9,4.2,60207,17.8
+Santa Maria Valley,California,110971,69.6,15.3,5.4,7.8,56367,22.2
+Santa Maria,California,103410,57,12.3,3.5,8.6,52170,22.2
+Santa Monica,California,92987,96.3,65.3,27.1,5.5,85062,20.4
+Santa Rosa,California,174170,85.5,30.4,10.9,5.5,62329,19.8
+Santee,California,57052,92.9,26.6,8.6,5.6,79667,22.2
+Simi Valley,California,126871,89.9,35.7,11.2,4.2,93438,23.1
+South Antelope Valley,California,171490,76.7,14.7,4.5,9.1,71376,20.4
+South Bay Cities,California,134363,94.4,55.1,20.6,3.6,106013,20.4
+South Coast,California,298389,91.7,41.9,14.6,3.8,88029,18.5
+South El Dorado,California,87572,91.5,30.6,9.9,4.4,96192,19.9
+South Gate,California,96312,54.5,10.1,2.4,10,45438,20.4
+South San Francisco,California,67009,77.9,28.3,6.4,5.2,96822,16.9
+South Whittier,California,57156,75,14.9,4,4.9,65864,20.4
+Southeast Marin,California,51775,97.7,69,30.2,2.1,128357,17.1
+Southwest San Gabriel Valley,California,326450,67.2,22,6.5,7,56282,20.4
+Stockton,California,302389,74.5,17.8,5.6,9.5,46795,29.2
+Sunnyvale,California,149980,91.8,62.6,32.7,3.3,112217,19
+Temecula,California,109428,91,29.8,12.9,4.8,80495,24.5
+Thousand Oaks,California,129342,93.3,49,20.8,4.8,108322,23.1
+Torrance,California,148495,94.7,46.8,15.6,4.2,79921,20.4
+Trabuco,California,193712,93.5,42,12.9,3.2,106911,18.5
+Tracy,California,85841,84.6,28,7.3,7.6,80166,29.2
+Tulare,California,61867,71.7,11.9,3,10.7,47083,28.2
+Turlock,California,71245,83.2,26.7,9.8,8.5,54842,28
+Tustin,California,80621,86.5,41.4,11.7,4.7,73800,18.5
+Union City,California,73621,92.6,38.4,14.5,5.1,96376,19.3
+Upland,California,76043,88.1,29.5,10.2,5.7,63771,27.1
+Upper San Gabriel Valley,California,327431,68,22.9,8.1,7,61409,20.4
+Vacaville,California,95856,89.3,20.5,6.2,4.4,76489,25.1
+Vallejo,California,120228,86.5,24.3,5.5,7.6,56923,25.1
+Ventura,California,110873,85.2,28.6,11,5,69843,23.1
+Victorville,California,121901,78.1,16.2,6.8,9.9,47693,27.1
+Visalia,California,129281,80,21,5.7,8.3,52599,28.2
+Vista,California,98079,78.3,22.8,8.7,7.2,67421,22.2
+Walnut Creek,California,67673,98.1,66.5,29.2,4,91812,22.2
+Watsonville,California,53111,56.3,10,2.8,12.4,44570,17.8
+West Contra Costa,California,250207,79.5,27,10.2,6.5,65289,22.2
+West Covina,California,108455,84.9,26.6,6.6,7,78140,20.4
+West Sacramento,California,51847,82.7,25,8.7,7.3,56579,17.4
+Westminster,California,92068,78.1,24.1,6.6,5.5,55385,18.5
+Whittier,California,87318,84.4,22.7,8.2,6,70256,20.4
+Woodland,California,57432,79.5,24.3,9,6.1,59935,17.4
+Yorba Linda,California,67826,94.6,52.9,18.6,4,121102,18.5
+Yuba City,California,65773,74.6,17.1,5.3,13.3,48828,24.5
+Yucaipa,California,53096,86.4,19.3,7.1,6.8,56843,27.1
+Arvada,Colorado,113574,93.8,38.9,13.9,3.6,69581,17.4
+Aurora,Colorado,353108,86.5,26,8.9,8.3,49142,24.3
+Boulder,Colorado,105112,95.8,73,39.8,6.7,58547,12.5
+Broomfield,Colorado,62138,97,56.1,21.7,3.8,84921,17.4
+Castle Rock,Colorado,55747,96.2,48.1,14.6,2.5,92312,16
+Centennial,Colorado,107201,97.4,55.6,24.8,3.1,67002,19.5
+Colorado Springs,Colorado,445830,94.3,38.3,14.3,4.6,56079,19.8
+Commerce City,Colorado,51762,80.1,20.4,6.9,7.2,71148,24.3
+Denver,Colorado,663862,85.8,47.1,18.5,4.3,58003,16.3
+Fort Collins,Colorado,156480,96.9,54.1,21.3,5.2,61514,16.5
+Grand Junction,Colorado,60210,91.3,30.9,10.1,7.8,47329,19.9
+Greeley,Colorado,98596,83.1,24.7,9.5,7.2,54307,23
+Highlands Ranch,Colorado,96713,98.7,59.6,21.2,2.5,111693,16
+Lakewood,Colorado,149643,92.5,38,11.7,3.4,60984,17.4
+Longmont,Colorado,90237,88.8,38.4,14.7,3.5,59333,12.5
+Loveland,Colorado,72651,95.4,36.2,11.8,3.2,61377,16.5
+Northeast Jefferson,Colorado,451811,91.1,33.4,10.4,3.2,68485,17.4
+Pueblo,Colorado,108423,83.9,18.4,5.4,7.2,36267,23.3
+South Aurora,Colorado,329151,89.6,31.8,9.3,3.5,63688,19.5
+Southwest Arapahoe,Colorado,201720,92.3,45.8,16.2,2.9,74953,19.5
+Thornton,Colorado,130307,85.2,28.4,8.5,3.7,72697,24.3
+West Adams,Colorado,310409,82.8,20,5.5,4,67455,24.3
+Westminster,Colorado,112090,91.3,37.2,14,3.3,70212,24.3
+Bridgeport,Connecticut,147612,78.4,20,8,10.5,42420,17.9
+Bristol,Connecticut,60570,88.7,24.9,8,6.7,64466,22.1
+Danbury,Connecticut,83784,81.8,29.2,13.1,4,65517,17.9
+East Hartford,Connecticut,51252,84,19.3,6.9,7.2,50720,22.1
+Fairfield,Connecticut,59404,91.6,52.2,22.8,7.3,110601,17.9
+Greenwich,Connecticut,61171,92.1,58.8,27.3,3.5,131227,17.9
+Hamden,Connecticut,60960,88.5,36.5,17.8,7.1,66208,24
+Hartford,Connecticut,124705,71.3,16.9,6.5,15.9,34240,22.1
+Manchester,Connecticut,58241,87.5,29.4,11.4,3.9,67798,22.1
+Meriden,Connecticut,60293,86.4,19.5,7.1,7.2,54694,24
+Milford,Connecticut,51857,94.1,38.9,16.8,4.9,80312,24
+New Britain,Connecticut,72878,82.6,20.4,8.1,8.9,40485,22.1
+New Haven,Connecticut,130282,84.6,35.1,19.1,13.8,36641,24
+Norwalk,Connecticut,88145,87.8,40.1,17.1,4.8,85052,17.9
+Stamford,Connecticut,128278,90.9,47.3,20.9,4.3,79865,17.9
+Stratford,Connecticut,51384,91,31.3,11.8,5.9,68618,17.9
+Waterbury,Connecticut,109307,77.6,13.1,4.8,8.6,37877,24
+West Hartford,Connecticut,63268,94.1,61,33.4,3.1,90777,22.1
+West Haven,Connecticut,54905,86.5,23,9.2,7.9,50945,24
+Washington,District of Columbia,658893,89.8,56.7,32.9,6.4,75628,14.4
+Brandywine,Delaware,82672,90.8,40.5,16.3,3.2,73059,26.7
+Greater Newark,Delaware,70573,89.5,38.1,15,8.8,68194,26.7
+Wilmington,Delaware,71817,87.4,25.4,10.7,9.6,41035,26.7
+Alafaya,Florida,78113,94.3,41.7,13.9,4.7,46716,23
+Boca Ciega,Florida,68887,86.8,24.1,8,3.4,51634,26.3
+Boca Raton,Florida,91332,96.8,53.9,21.3,4,71678,19.3
+Boynton Beach,Florida,73124,86.7,28.5,8.6,7.3,47739,19.3
+Bradenton,Florida,52769,84.9,20.9,8,8.4,41166,22.7
+Brandon,Florida,103483,92.2,32.3,10.7,3.7,57942,25.2
+Cape Coral,Florida,169854,90.5,22.9,9,3.7,51464,24.9
+Carol City,Florida,64569,61,9.7,3.7,11.1,47056,20.5
+Central Pasco,Florida,69995,88.1,26.2,8.4,3.6,76111,23.9
+Citrus Park-Fern Lake,Florida,117103,91.6,38.3,11.5,3,74994,25.2
+Clearwater,Florida,110703,90.8,28,7.8,4.1,46344,26.3
+Coconut Creek,Florida,58536,93.3,32.9,10.7,6.5,54789,20.6
+Coral Gables,Florida,51227,95.5,60.4,31.1,3.1,95365,20.5
+Coral Springs,Florida,127952,92.8,37,11.3,4.8,70422,20.6
+Davie,Florida,98895,91,36.5,11.6,5.5,60959,20.6
+Daytona Beach,Florida,63011,86.3,19.6,6.4,10.2,28619,24.5
+Deerfield Beach,Florida,78881,88.4,28.1,9.2,7.5,46582,20.6
+Delray Beach,Florida,65055,86.6,33.7,13.7,6,51551,19.3
+Deltona,Florida,86890,89.9,16.7,3.1,5.7,43661,24.5
+Doral,Florida,54116,95.1,54.3,19.1,3.9,74044,20.5
+Fort Lauderdale,Florida,176013,86.8,36.3,13.9,6.3,51247,20.6
+Fort Myers,Florida,70918,80,26.2,8.6,6.2,41586,24.9
+Fountainbleau,Florida,59764,80.7,28.1,7,5.3,43091,20.5
+Gainesville,Florida,128460,91.9,44.6,21.2,9.7,34313,24.6
+Gulf Breeze-Harold,Florida,67908,87.9,27.9,10.7,4.9,64922,21.9
+Hialeah,Florida,235563,69.8,12.8,3.4,10.1,29095,20.5
+Hollywood,Florida,148047,85.4,27.6,9.8,5.6,46091,20.6
+Homestead,Florida,65524,71,18.4,6.4,10.3,41260,20.5
+Jacksonville,Florida,853382,88.4,27.7,8.6,6.2,48239,27.5
+Jupiter,Florida,60681,92.3,42.7,15.5,3.3,75639,19.3
+Kendale Lakes-Lindgren Acres,Florida,341815,79,24.5,9.5,6.2,59496,20.5
+Kendale Lakes,Florida,56148,84.2,24.4,7.3,5.7,49562,20.5
+Kendall-Perrine,Florida,169007,88,42.9,19.8,4.8,74903,20.5
+Kendall,Florida,75371,90.9,46,20.9,4,72663,20.5
+Kissimmee,Florida,66722,86.9,17.4,4.9,5.2,40437,25.1
+Lakeland,Florida,102346,84.3,25.6,9.6,7.5,41007,30.1
+Largo,Florida,79019,89.7,19.9,5.3,5.8,39931,26.3
+Lauderhill,Florida,70626,82.1,20.6,7.4,9.8,37496,20.6
+Lehigh Acres,Florida,86784,79.8,14.3,4,3.4,42296,24.9
+Margate,Florida,56061,86.1,20.4,5.6,8.2,44398,20.6
+Melbourne,Florida,78490,91.6,26.4,10.2,5,43056,23.3
+Miami Beach,Florida,91732,89.4,48.1,22,7.4,50937,20.5
+Miami,Florida,430332,74.4,25.7,9.3,11.7,29989,20.5
+Miramar,Florida,134989,91,34.3,14.8,7.2,70133,20.6
+North Miami,Florida,61420,74.4,20.1,6.4,7.1,37094,20.5
+North Port,Florida,60380,90.5,18.1,5.3,4,57161,20.1
+North Westside,Florida,110020,71.2,25.3,11.2,7.2,45074,20.5
+Northwest Dade,Florida,113920,65.3,11.3,4,10.4,47789,20.5
+Ocala,Florida,57586,86.1,21.8,7.7,7.5,36462,25
+Orlando,Florida,262372,90.1,35.5,10.5,5,44804,23
+Palm Bay,Florida,105838,88.6,19.6,7.1,4.2,45904,23.3
+Palm Beach Gardens,Florida,51919,94.9,46.8,19.3,3.3,73058,19.3
+Palm Coast,Florida,80600,93.9,26,8.7,3.7,49629,22.7
+Palm Harbor,Florida,57439,95.5,33.8,11.5,4,55373,26.3
+Pembroke Pines,Florida,164626,91.8,37,13.2,3.7,62404,20.6
+Pensacola,Florida,53068,91.7,33.2,12.2,5.4,46140,28.6
+Pine Hills,Florida,60076,78.9,17.5,4.5,7.1,35740,23
+Pinellas Park,Florida,50946,86.4,17.6,6.6,4.8,43123,26.3
+Plantation,Florida,91457,92.9,41,16.8,4.4,63702,20.6
+Poinciana,Florida,53193,84.9,19.6,5.5,6.6,45582,25.1
+Pompano Beach,Florida,106105,81.1,21.6,7.8,6.6,43799,20.6
+Port Charlotte,Florida,54392,87.1,18.1,7.1,9.1,39993,23.7
+Port Orange,Florida,58742,89.6,25.1,8.4,2.9,44469,24.5
+Port St. Lucie,Florida,174110,86.8,21,8.2,4.2,53222,26
+Riverview,Florida,71050,92.4,30.4,10.9,1.9,69797,25.2
+Royal Palm Beach-West Jupiter,Florida,82604,88.7,28.5,10.7,3.5,76050,19.3
+Sanford,Florida,57525,89,21.1,6.2,7.5,38316,24.2
+Sarasota,Florida,54214,88.3,33.1,13.4,5.9,47020,20.1
+South Westside,Florida,99883,67.8,21.5,8.9,6.9,53882,20.5
+Southwest Orange,Florida,125117,89.9,39.7,11.9,3,73765,23
+Spring Hill,Florida,98621,88.9,16,5.8,4.7,45090,25.4
+St. Petersburg,Florida,253693,90.4,33,12.4,4.9,48858,26.3
+Sunrise,Florida,91256,87.1,24.5,7.6,5.7,55957,20.6
+Sunshine Parkway,Florida,153186,89.7,33.6,12.4,3.6,72443,19.3
+Tallahassee,Florida,188107,92.9,45.6,21.4,11.1,40000,26.1
+Tamarac,Florida,63793,90,27.6,8.1,5.4,44864,20.6
+Tamiami,Florida,55271,80.4,25.6,7.5,4.4,47157,20.5
+Tampa,Florida,358699,86.9,35.5,13.5,7.1,44432,25.2
+The Hammocks,Florida,51003,89.6,31,9.3,6.5,59549,20.5
+The Villages,Florida,51442,95.4,37.8,16.2,8.3,57379,27.1
+Wellington,Florida,61485,94.7,43.6,16.3,4.4,86061,19.3
+West Palm Beach,Florida,104031,85.8,33.6,11.7,5.4,49935,19.3
+Weston,Florida,69100,97.1,63.1,26.6,5.2,98963,20.6
+Albany,Georgia,75769,81,17.2,7.8,11.6,28921,31.1
+Alpharetta,Georgia,63038,96.5,63.1,22,3.2,84923,23.2
+Athens-Clarke County,Georgia,119648,86.5,35.6,17.1,10.3,31406,25.7
+Athens,Georgia,85116,81.6,44.2,21.1,11.8,27723,25.7
+Atlanta,Georgia,456002,89.5,48.4,20.8,9.7,46485,23.2
+Augusta-Richmond County,Georgia,196741,83,22.7,8.7,9.1,35558,32.8
+Augusta,Georgia,136381,76.6,21,7.7,9.6,32911,32.8
+Columbus,Georgia,185888,79,20.4,8,7,41925,30.6
+Dacula-Rocky Creek,Georgia,51522,88.2,27.1,6.5,2.3,69952,25.6
+Johns Creek,Georgia,83102,96,65.6,25.3,4.5,60291,23.2
+Macon,Georgia,89981,80.4,18.7,8.9,10.1,30637,30.8
+Marietta,Georgia,60014,86.3,36.9,11.1,5.6,47937,23.8
+Northeast Cobb,Georgia,169756,95.9,54.9,17.1,2.7,99677,23.8
+Roswell,Georgia,94089,93.4,56.2,18.1,3.4,89088,23.2
+Sandy Springs,Georgia,101908,94.4,62.1,25.4,2.9,71996,23.2
+Savannah,Georgia,144352,87.6,28,9.8,8.2,35827,28.7
+Smyrna,Georgia,54958,90.5,51.9,20.7,5.5,66503,23.8
+Valdosta,Georgia,56595,82.6,25.3,10.4,11.8,27441,29.3
+Warner Robins,Georgia,73271,90.6,19.4,7.7,6.1,45270,30.8
+West Dougherty,Georgia,59317,76.2,22.7,8.3,8.5,38012,31.1
+Ewa,Hawaii,279683,85.9,25.1,6.6,5.4,92335,20.5
+Honolulu,Hawaii,374701,83.4,31.1,10.7,5.9,67148,20.5
+Koolaupoko,Hawaii,121180,90.9,33.1,12,5.6,98521,20.5
+Urban Honolulu,Hawaii,350399,86.9,35.4,12.6,3.1,77273,20.5
+Ames,Iowa,63266,97.1,62.4,26.8,5.4,42514,26.2
+Ankeny,Iowa,53801,97.5,45.7,11.6,3.8,74466,25.8
+Cedar Rapids,Iowa,129195,93.6,29,9.1,4,51011,28.6
+Council Bluffs,Iowa,62245,86.9,17.8,5,4.6,46551,29.7
+Davenport,Iowa,102448,89.7,25.1,8.9,6.1,49745,26.3
+Des Moines,Iowa,209220,86.9,26.1,7.6,6.7,49072,25.8
+Dubuque,Iowa,58436,91.3,29.9,10.6,3.9,50823,27.3
+Iowa City,Iowa,73415,94.7,56.2,29.4,4.2,47593,22.1
+Sioux City,Iowa,82517,84.1,21.7,5.7,4.4,47584,28.9
+Waterloo,Iowa,68364,88.2,25,9,4.1,44153,26.6
+West Des Moines,Iowa,63325,96,53.2,16.8,1.7,71336,25.8
+Boise,Idaho,216282,94.6,39.7,12.8,4.2,55309,22.1
+Caldwell,Idaho,50224,79.1,14.3,4.2,6.1,40950,28.7
+Idaho Falls,Idaho,58691,90.2,26.3,8.6,4.8,46857,26
+Meridian,Idaho,87743,94.7,33.3,10,2.8,54746,22.1
+Nampa,Idaho,88211,87.1,18.2,5.1,6.9,40884,28.7
+Pocatello,Idaho,54292,92.2,29.2,10.8,6.7,38200,27.4
+Arlington Heights,Illinois,76024,95.9,51.4,18.8,2.4,79940,23.5
+Aurora,Illinois,200456,73.6,32,11.6,5.8,60809,27.2
+Berwyn,Illinois,56693,78.1,20.7,6.1,5.9,59016,23.5
+Bloomington,Illinois,78730,95.2,50.9,19,3.9,64339,26.9
+Bolingbrook,Illinois,74180,88.4,35.4,11,4.9,77929,26.3
+Champaign,Illinois,84513,96.2,50,28.6,7.1,48394,27.6
+Chicago,Illinois,2722389,84.1,36.6,14.8,7.4,50702,23.5
+Cicero,Illinois,84354,62.5,8.3,1.8,7.3,44664,23.5
+Decatur,Illinois,74010,87.4,20.7,6,9,41119,28.7
+Des Plaines,Illinois,58947,87.9,35.7,11.3,3.9,66994,23.5
+Elgin,Illinois,111117,76.6,24.2,7.5,5.8,57097,27.2
+Evanston,Illinois,75658,94.8,65.8,37,4.4,70969,23.5
+Hoffman Estates,Illinois,52347,91.8,46.6,17.3,3.9,87032,23.5
+Joliet,Illinois,147928,82.7,20.7,6.1,6.5,58363,26.3
+Mount Prospect,Illinois,54951,89.7,39.7,14.1,3.5,71533,23.5
+Naperville,Illinois,146128,97.6,65.5,29.7,2.8,105848,24
+Normal,Illinois,54594,95.8,50.4,16.7,11.5,54692,26.9
+Oak Lawn,Illinois,57034,89.9,26,9.4,6,57812,23.5
+Oak Park,Illinois,52008,96.5,67.8,37.2,4.9,82518,23.5
+Orland Park,Illinois,58666,93.9,40.8,16.2,4.5,83812,23.5
+Palatine,Illinois,69387,87,44.7,16.3,3.8,75997,23.5
+Peoria,Illinois,115828,88.1,34,14,7.4,49121,28.2
+Rockford,Illinois,149123,83,20.9,7.9,7.3,40720,26.1
+Schaumburg,Illinois,74896,93.9,45.3,12.8,3.7,73537,23.5
+Skokie,Illinois,65112,90.1,44.4,16.3,4,67338,23.5
+Springfield,Illinois,116809,90.2,36.2,12.8,4.9,52102,27.9
+Tinley Park,Illinois,57280,93.7,34.8,11.2,3.7,76364,23.5
+Waukegan,Illinois,88915,73.8,18.4,5.9,9.7,49203,24.2
+Wheaton,Illinois,53644,96.2,61.8,25.8,3.5,87750,24
+Anderson,Indiana,55455,83.3,14.1,4.7,11.1,31856,30.4
+Bloomington,Indiana,83322,93,55.1,29.7,4.8,31115,26.1
+Carmel,Indiana,86682,97.3,69.8,29.6,2.5,108660,24.7
+Elkhart,Indiana,51421,77.6,13.3,4.2,4.7,36584,28.6
+Evansville,Indiana,120346,87.2,20.1,7,6.6,35293,27.3
+Fishers,Indiana,86325,98.2,68.2,23.4,1.7,109397,24.7
+Fort Wayne,Indiana,258522,88.6,26.9,8.9,6.2,44977,28.9
+Gary,Indiana,77909,87.9,12.6,4.5,14.9,30467,32.3
+Greenwood,Indiana,54491,91.5,27,8.4,2.9,59927,27.6
+Hammond,Indiana,78384,82,14,3.6,8.9,41359,32.3
+Indianapolis,Indiana,848788,84.9,29.4,10.1,7.2,41278,28.5
+Kokomo,Indiana,57085,86.3,15.8,5.5,8.3,39807,28.3
+Lafayette,Indiana,70654,87.4,21.7,8.3,5,41328,27.6
+Muncie,Indiana,70211,88.7,21.5,8,6.9,32334,31.3
+Noblesville,Indiana,57584,94.4,43.9,13.5,2.5,73398,24.7
+South Bend,Indiana,101190,82.8,22.8,8.4,8.3,36273,29.5
+Terre Haute,Indiana,60956,84.4,20.4,8.6,12.9,30490,30.9
+Kansas City,Kansas,149636,77,16.3,4.9,8.5,41255,31.1
+Lawrence,Kansas,92763,93.1,50.1,25.1,5.1,46564,25.2
+Lenexa,Kansas,51042,95.5,54.9,20.1,2.5,82719,23
+Manhattan,Kansas,56078,95.1,50.2,24.1,7.4,45277,9.8
+Olathe,Kansas,133062,95,47,16.3,2.6,80242,23
+Overland Park,Kansas,184525,98,61.5,22.2,2.3,81144,23
+Shawnee,Kansas,64599,93.6,45.5,17.8,2.6,88636,23
+Topeka,Kansas,127215,88.9,29.3,10.6,4.8,43860,29.4
+Wichita,Kansas,388413,87.1,26,9.7,5.3,46894,28.3
+Bowling Green,Kentucky,62479,84.8,27.1,10.9,7.8,35420,29.5
+Fayette,Kentucky,286518,85.8,35.6,14.5,5.4,51948,27.5
+Lexington-Fayette,Kentucky,310797,90,41.6,18.9,5.4,51948,27.5
+Louisville,Kentucky,262764,76.1,21.3,8.7,7.4,37470,27.6
+Owensboro,Kentucky,58374,85.5,19.9,8.1,6.9,39550,29.1
+Baton Rouge,Louisiana,228895,89.2,32.9,13.7,8.3,41224,27.7
+Bossier City,Louisiana,67472,86.6,20.5,6.1,5.7,46322,27.1
+Kenner,Louisiana,67064,83.3,22.9,6.8,5.8,44647,28.3
+Lafayette,Louisiana,126066,87.4,38.4,12.1,8.1,47830,25.4
+Lake Charles,Louisiana,74889,85.6,25.3,9.4,9.1,38256,31.7
+Metairie,Louisiana,138481,91.1,36.4,11.5,3.9,53715,28.3
+New Orleans,Louisiana,384320,86,36,15.6,7.2,39077,27.5
+Shreveport,Louisiana,198242,86.4,24.9,9.3,10.2,38497,27.8
+Boston,Massachusetts,655884,85.9,46.6,20.6,5.6,58263,17.1
+Brockton,Massachusetts,94779,84.8,18.1,4.6,6.7,43206,21.7
+Brookline,Massachusetts,58732,96.6,80.6,52.5,3.5,101770,19.1
+Cambridge,Massachusetts,109694,96,78.5,52.2,6.1,89847,21.5
+Chicopee,Massachusetts,55795,85.2,17.3,6.1,4.8,48679,25.9
+Fall River,Massachusetts,88712,73.9,13.5,3.9,7,39547,26.9
+Framingham,Massachusetts,68318,87.9,46.6,18.5,3.6,70355,21.5
+Haverhill,Massachusetts,62488,88.1,28.6,9.9,5.4,60348,23.7
+Lawrence,Massachusetts,78197,68.3,9.7,3.6,8.4,36969,23.7
+Lowell,Massachusetts,109945,80.4,22.1,8.5,6.6,47727,21.5
+Lynn,Massachusetts,92137,78.8,19.5,6.9,6.2,49332,23.7
+Malden,Massachusetts,60859,85.9,32.9,14.6,6.1,58217,21.5
+Medford,Massachusetts,57437,91.5,44.8,21.1,3.4,81069,21.5
+New Bedford,Massachusetts,94845,73,17.3,6.1,8.7,36808,26.9
+Newton,Massachusetts,88287,97.4,76.6,46.3,2.9,126649,21.5
+Peabody,Massachusetts,52376,90.3,29.3,10.3,3.5,60058,23.7
+Quincy,Massachusetts,93397,88.3,40.9,14,3.4,66415,19.1
+Revere,Massachusetts,54157,82.2,19.5,6.2,5.7,52483,17.1
+Somerville,Massachusetts,78901,89.7,60.1,29.4,3.5,86012,21.5
+Springfield,Massachusetts,153991,77.1,17.5,6.7,8.5,38398,25.9
+Taunton,Massachusetts,56544,82.1,18.8,6.1,6,56177,26.9
+Waltham,Massachusetts,63014,90.1,48.7,21.5,3.6,79754,21.5
+Weymouth Town,Massachusetts,55643,93.4,32.6,10.2,5.7,94039,19.1
+Weymouth,Massachusetts,54393,90.5,26,7.7,4,76594,19.1
+Worcester,Massachusetts,183016,82.9,28.2,10.9,6.3,43572,24
+Baltimore,Maryland,622793,84.7,29.9,13.3,8.4,44165,12.3
+Bethesda,Maryland,60858,98.7,83,54.8,2.5,144018,18.8
+Bowie,Maryland,57646,95.9,49.8,21.8,4.2,109499,30.7
+Columbia,Maryland,99615,95.7,62.8,29.8,3.6,102431,23.9
+Dundalk,Maryland,63597,79.7,10,3.1,7.3,50673,26.4
+Ellicott City,Maryland,65834,95.6,65.7,33.8,2.4,113378,23.9
+Frederick,Maryland,68400,90.2,37.2,16.6,4.5,62500,26.4
+Gaithersburg,Maryland,66816,86.7,52.4,23.7,3.7,85854,18.8
+Germantown,Maryland,86395,90.2,50.5,23.5,4.1,85091,18.8
+Glen Burnie,Maryland,67639,84.3,25.5,8.4,3.9,66111,25.5
+Rockville,Maryland,65937,92.8,66,40.9,3.2,97377,18.8
+Silver Spring,Maryland,71452,82.1,54.5,31.4,4,67623,18.8
+Towson,Maryland,55197,95,61.9,32.6,3,76702,26.4
+Waldorf,Maryland,67752,96.5,28.2,13,3,87223,31.9
+Wheaton-Glenmont,Maryland,61910,78.1,34.2,15.5,4.2,81857,18.8
+Portland,Maine,66666,95,50,21.3,4.8,52139,19.5
+Ann Arbor,Michigan,117770,97.6,72.2,44.9,4.2,60147,27
+Battle Creek,Michigan,51833,89.3,21.6,7,9.3,37371,30.3
+Canton,Michigan,73490,92,39.4,14.7,2.5,73884,33.2
+Dearborn Heights,Michigan,56415,85.8,20.4,7.8,8.2,44996,33.2
+Dearborn,Michigan,95535,81.8,28.4,10.8,5.3,51424,33.2
+Detroit,Michigan,680250,79.6,14.2,5.2,17.4,25980,33.2
+Farmington Hills,Michigan,81435,94.8,52.2,21.8,3,70393,25.6
+Flint,Michigan,99002,84.4,11.8,3.5,12.9,25342,33.6
+Grand Rapids,Michigan,193792,85.4,33.6,11.1,6.3,41857,28.1
+Kalamazoo,Michigan,75922,92.2,36,17.1,12.5,36536,27.9
+Kentwood,Michigan,50764,89.6,33.6,11.8,3.9,50806,28.1
+Lansing,Michigan,114620,88.1,26,8.9,6.4,37426,28.7
+Livonia,Michigan,94958,93.8,34.3,13.3,3.2,72061,33.2
+Novi,Michigan,58416,95,57.2,25.7,2.2,85688,25.6
+Pontiac,Michigan,59808,78.6,11.4,3.7,10.7,29575,25.6
+Rochester Hills,Michigan,73125,96.8,54.5,21.9,2.4,81124,25.6
+Royal Oak,Michigan,59069,96.1,52.5,21.1,3.3,68256,25.6
+Shelby,Michigan,68294,87.4,26.3,9.2,3.1,68471,29.4
+Southfield,Michigan,73002,92.2,36.1,14,4.6,50557,25.6
+St. Clair Shores,Michigan,60036,91.9,23.7,8,5.5,53149,29.4
+Sterling Heights,Michigan,131741,85.9,25.4,10.1,3.5,61809,29.4
+Taylor,Michigan,61594,82.9,9.8,2.8,9.2,40886,33.2
+Troy,Michigan,83107,95.2,57.9,29.6,3.3,87447,25.6
+Warren,Michigan,135099,84.5,18.9,5.8,4.7,43379,29.4
+Waterford,Michigan,73473,87.2,23.9,6.6,4.1,62197,25.6
+West Bloomfield Township,Michigan,65149,93.3,55.3,26.4,2.5,103641,25.6
+Westland,Michigan,82314,89.5,19.7,5.9,4.5,45538,33.2
+Wyoming,Michigan,74826,84.1,17.8,3.4,4.6,44047,28.1
+Apple Valley,Minnesota,50487,95.6,42.6,14.5,2.5,80098,25.6
+Blaine,Minnesota,61190,94.5,33.2,10.4,3.1,78718,27.7
+Bloomington,Minnesota,86314,93.3,42,12.7,3.5,67845,22.8
+Brooklyn Park,Minnesota,78728,89.9,27.6,6.5,4.1,62164,22.8
+Burnsville,Minnesota,61630,93.9,36.9,11.2,2.8,65021,25.6
+Coon Rapids,Minnesota,62112,93.2,25.9,7.1,3.8,66476,27.7
+Duluth,Minnesota,86238,94.4,37.6,14.3,7.5,47832,25.3
+Eagan,Minnesota,66084,96.7,48.6,14.3,3,78417,25.6
+Eden Prairie,Minnesota,63228,97.1,60.9,22,2.5,102239,22.8
+Lakeville,Minnesota,59866,96.4,47.7,13.1,2.1,97181,25.6
+Maple Grove,Minnesota,66945,98,51.5,17.7,1.9,89498,22.8
+Minneapolis,Minnesota,407207,87.9,48.3,20.2,4.5,54571,22.8
+Minnetonka,Minnesota,51486,97.5,56.8,21.6,2.3,82291,22.8
+Plymouth,Minnesota,75057,98.3,56.2,21.4,2.7,93203,22.8
+Rochester,Minnesota,111402,93.6,45.2,22.5,4.2,66340,26.7
+St. Cloud,Minnesota,66389,90.2,29.2,9.1,5.3,43647,27.2
+St. Paul,Minnesota,297640,86.6,39.8,16.3,5.7,50267,25.5
+Woodbury,Minnesota,66807,97.3,60.5,23.4,2.1,101785,26.7
+Blue Springs,Missouri,53573,93.8,32.2,11.1,3.2,65580,30.8
+Columbia,Missouri,116906,94.8,53.9,24.9,3.3,44160,28.7
+Florissant,Missouri,52303,91.7,23.4,7.6,4.3,52263,28
+Independence,Missouri,117494,87.1,19.2,6.1,5,42229,30.8
+Joplin,Missouri,51316,88.2,24,8.3,7.8,40454,30.7
+Kansas City,Missouri,470800,88.7,33.3,12.6,4.4,50259,30.8
+Lee's Summit,Missouri,93864,96.4,46.6,16.7,2.2,75020,30.8
+O'Fallon,Missouri,84009,93.8,36.9,15.2,2.4,74961,28
+Springfield,Missouri,165378,90.4,28,10.8,6.6,36107,29.1
+St. Charles,Missouri,68090,92,34.1,14.3,3.5,59006,28
+St. Joseph,Missouri,76967,89.6,20.8,7.4,6.4,46398,32
+St. Louis,Missouri,317419,85.8,34.7,15.3,7.8,38397,13.3
+St. Peters,Missouri,56076,94.3,35.3,11.9,3.1,71006,28
+Gulfport,Mississippi,71750,85.3,20.5,7,7.1,37268,30.8
+Jackson,Mississippi,171155,86.3,26.9,12.4,8.9,32482,31
+Southaven,Mississippi,51824,88.4,22.2,5.9,3.8,60341,31.6
+Billings,Montana,108869,93.4,33.9,9.4,4.2,58375,25.7
+Great Falls,Montana,59152,91,25.2,8.1,3.1,43277,24.4
+Missoula,Montana,69821,98,46.5,22.4,7.5,37444,19.2
+Asheville,North Carolina,87882,94.1,49.1,19.9,5.1,42558,21.2
+Burlington,North Carolina,51812,81.9,23.1,6.9,8.1,34175,28.8
+Cary,North Carolina,155227,96,63.6,27.9,3.1,95374,27
+Chapel Hill,North Carolina,59376,95.6,74,44.7,4.5,64174,22.3
+Charlotte,North Carolina,809958,88,41.9,14.7,6,53919,24.2
+Concord,North Carolina,85560,89.6,32.4,11.2,5.4,52834,28.5
+Durham,North Carolina,251893,86.1,47,21.9,5.6,52106,27.6
+Fayetteville,North Carolina,203948,91.6,26.8,9.9,9.4,40408,31.1
+Gastonia,North Carolina,73698,84.7,23,8.5,6.2,42713,28.6
+Greensboro,North Carolina,282586,90.2,35.2,13.4,4.2,44934,27.8
+Greenville,North Carolina,89852,90.3,36.8,16,8.7,34305,32.2
+High Point,North Carolina,108629,82.5,30.2,8.8,6.1,40263,27.8
+Huntersville,North Carolina,51567,95.4,54.9,16.3,2.5,90299,24.2
+Jacksonville,North Carolina,69047,92.3,22.2,7.2,9.5,41375,29.8
+Raleigh,North Carolina,439896,91,49.2,17.5,5.3,56910,27
+Rocky Mount,North Carolina,56325,82.8,19.8,6.2,12.6,36092,32.3
+Wilmington,North Carolina,113657,92.2,37.4,12.8,8.5,42232,23.8
+Winston-Salem,North Carolina,239269,87.4,35.5,13.9,5.7,41287,24.7
+Bismarck,North Dakota,68896,92,35.1,9.4,3.2,57596,15.8
+Fargo,North Dakota,115863,94.2,36.1,11,4.3,45856,11.1
+Grand Forks,North Dakota,56057,92.9,35,12.7,4.3,48603,11.6
+Bellevue,Nebraska,53936,92.8,28.1,9,3.6,60153,28.5
+Grand Island,Nebraska,51236,81,17.4,5.6,2.8,48597,18
+Lincoln,Nebraska,272996,93.7,37.1,13.9,3.8,51503,26.3
+Omaha,Nebraska,446599,88.9,34.8,12.2,4.3,51407,26.7
+Manchester,New Hampshire,110448,87.4,29.2,9.6,3.8,54596,24.5
+Nashua,New Hampshire,87259,91.2,35,12.9,4.3,67441,24.5
+Bayonne,New Jersey,65975,86.9,32.9,12,4.9,53731,22.8
+Camden,New Jersey,77332,67.5,9.5,1.4,15.9,25643,25.8
+Clifton,New Jersey,85927,87.5,27.3,7.7,3.4,64700,24.7
+East Orange,New Jersey,65078,87.1,19.4,6.1,13.3,40723,16.5
+Edison,New Jersey,101207,87.6,42.3,17.2,4.1,89266,23.8
+Elizabeth,New Jersey,128705,71.4,11.7,4.8,9,44016,21.1
+Hoboken,New Jersey,53312,94,77.5,27.2,4.4,115892,22.8
+Irvington,New Jersey,58920,72,12.1,2.7,12.5,42350,16.5
+Jersey City,New Jersey,262146,86.1,43,16.5,10,59485,22.8
+Lakewood,New Jersey,53805,79.9,26.8,10.7,8.9,39061,26.4
+New Brunswick,New Jersey,57080,61.6,20.4,8.2,5.5,37976,23.8
+Newark,New Jersey,280579,74.4,16,4.3,11.9,30966,16.5
+Passaic,New Jersey,71509,64,13.7,3.7,4.7,26922,24.7
+Paterson,New Jersey,146753,70,9.1,2.2,5,31552,24.7
+Perth Amboy,New Jersey,52328,67.9,14.5,3.4,10.8,43499,23.8
+Plainfield,New Jersey,50955,72.1,18.5,6.9,7.2,55729,21.1
+Toms River,New Jersey,88791,93.2,32.9,11.2,4.7,75140,26.4
+Trenton,New Jersey,84034,73.1,11.8,5.3,10.5,35041,22.2
+Union City,New Jersey,68668,67.5,18.4,5.1,7.8,45558,22.8
+Union,New Jersey,54050,80.9,26.5,8.4,4.5,76093,21.1
+Vineland,New Jersey,61171,76.4,17.4,4.8,4.1,50770,27.2
+Wayne,New Jersey,53657,89.2,41.5,15.4,3.9,95115,24.7
+West New York,New Jersey,52597,73,24.3,8.9,10,45969,22.8
+Albuquerque,New Mexico,557169,89.2,34.2,15.1,5.8,48357,20
+Las Cruces,New Mexico,101408,84.2,28.4,13.4,8.4,40994,22.7
+Rio Rancho,New Mexico,93820,91.3,29.2,11,4.9,64475,20
+Carson City,Nevada,54522,86.8,20.7,8,7.6,48205,23.7
+Clark,Nevada,65029,80.8,15.9,5.4,6,51306,24.8
+Enterprise,Nevada,108481,93.8,29.5,8.4,3.9,70445,24.8
+Henderson,Nevada,277440,93.3,31.3,11.9,5.5,64035,24.8
+Las Vegas,Nevada,613599,83.4,23,7.9,8.4,49676,24.8
+North Las Vegas,Nevada,230788,80.7,15.3,4.4,7.8,53952,24.8
+Paradise,Nevada,223167,82.7,21.5,7.2,10,41646,24.8
+Reno,Nevada,236995,86.7,31.3,12.1,5.6,50451,21.2
+Sparks,Nevada,94708,86.8,24.1,8.6,7,52453,21.2
+Spring Valley,Nevada,178395,88.4,24.7,6,5,49305,24.8
+Sunrise Manor,Nevada,189372,73.1,10.7,3,7.3,39790,24.8
+Albany,New York,98566,91,37.4,16.6,12.7,37097,25.6
+Amherst,New York,122366,91.9,47.4,22.6,9.4,73647,26.9
+Brentwood,New York,60664,67,12.7,3.9,5.7,76941,23.4
+Bronx,New York,1383871,62.3,14.6,5.9,14.3,35176,15.4
+Brooklyn,New York,2538705,68.8,21.8,8.8,10.7,51141,24.7
+Buffalo,New York,258703,82.1,23.9,11,6.2,32509,26.9
+Cheektowaga,New York,75178,90.4,20.7,8.2,4.6,52229,26.9
+Clarkstown,New York,84187,90,45.2,20.4,3.1,103151,24.1
+Clay,New York,58206,90.5,27.5,9.5,3.7,70798,27.3
+Greenburgh,New York,88400,91,53.7,27.5,3.2,108856,19.1
+Hempstead,New York,55527,71.2,17,6.6,6,56735,20.9
+Irondequoit,New York,51692,91.9,34.8,13.1,3.7,55849,26.4
+Levittown,New York,51881,92.4,31.3,12.3,4.4,101159,20.9
+Manhattan,New York,1621897,78.7,49.4,23.4,8.5,75575,15.4
+Mount Vernon,New York,68458,82.6,28.5,9.5,7.3,58097,19.1
+New Rochelle,New York,79637,80.7,45.6,22.8,4.7,76496,19.1
+New York,New York,8491079,80.9,36.8,15,6.2,55752,15.4
+North Hempstead,New York,226322,87.1,45.8,22.8,3.7,114566,20.9
+Queens,New York,2277251,74.4,24.3,9.2,7.7,60422,23.3
+Ramapo,New York,126595,81.5,34.5,15.1,4.3,75820,24.1
+Rochester,New York,209983,78.6,21.6,9.3,10.2,31946,26.4
+Schenectady,New York,65936,84.2,22.8,6.8,5.3,46461,25
+Staten Island,New York,481026,82.6,23.2,9.1,5.9,71622,24.5
+Syracuse,New York,144263,82,29,12.1,6.6,36457,27.3
+Union,New York,56346,84.8,23.5,9.8,4.9,44525,27
+Utica,New York,61332,79.1,16.4,5.7,9.8,30363,24.4
+White Plains,New York,58035,85.8,49,24.8,4.7,82502,19.1
+Yonkers,New York,200667,83.6,31.5,12.9,6.7,56979,19.1
+Akron,Ohio,197859,85.6,20.6,6,7.4,34300,27.6
+Canton,Ohio,72297,85.3,14.4,5.7,7.8,30601,30.3
+Cincinnati,Ohio,298165,89,34.3,13.4,8.3,35001,26.6
+Cleveland,Ohio,389521,78.7,16.2,5.9,14.4,28831,28.3
+Columbus,Ohio,835957,89.1,34.8,11.9,5.3,47401,30.2
+Dayton,Ohio,141003,83.1,18.1,6.4,9.3,30135,30.5
+Elyria,Ohio,53972,87.2,15.5,5.6,7.7,40886,29
+Hamilton,Ohio,62486,85.2,14.9,4.7,5.5,41302,30.2
+Kettering,Ohio,55705,94,31.9,13.1,4.7,53763,30.5
+Lakewood,Ohio,50926,92.8,42.4,15.7,5.9,46546,28.3
+Lorain,Ohio,63776,82.9,11,2.9,6.5,35447,29
+Parma,Ohio,80015,91.2,20,5.8,5.1,52093,28.3
+Springfield,Ohio,59956,82.4,15.2,5.4,9.5,35255,30
+Toledo,Ohio,281031,85.9,16.8,5.6,8.1,35289,30
+Youngstown,Ohio,65062,84,12.1,3.8,11.3,23984,28.1
+Broken Arrow,Oklahoma,104726,93.6,29.7,7.7,2.9,70242,27.3
+East Canadian,Oklahoma,72697,89.4,23,6,3,67712,27.7
+Edmond,Oklahoma,88605,95.4,52.5,21.7,3,73885,27.9
+Enid,Oklahoma,51386,85.5,21.5,7.6,5.5,48035,31.7
+Lawton,Oklahoma,97017,88.7,19.7,6.1,7.8,42635,28.7
+Midwest City,Oklahoma,57039,89.2,20.6,6,5.3,46698,27.9
+Moore,Oklahoma,59196,91,22.7,6.6,3.7,61141,28.1
+Norman,Oklahoma,118040,93.1,40.1,18.5,5,54159,28.1
+North Cleveland,Oklahoma,102211,88.7,20.9,6.2,3.4,68902,28.1
+Oklahoma City,Oklahoma,620602,85.6,30.1,10.7,4,50739,27.9
+Tulsa,Oklahoma,399682,86.9,30.8,10.4,5.1,43322,27.3
+Albany,Oregon,51980,88.7,22.6,7.8,8.2,45777,30
+Beaverton,Oregon,95109,90.4,46.7,15.5,5.7,56564,24
+Bend,Oregon,84080,97.3,47.2,17.9,4.2,52905,17.3
+Corvallis,Oregon,54953,95.8,59.7,27.2,5.4,45090,22
+Eugene,Oregon,160561,93.1,40.9,17.4,6.2,45927,26.1
+Gresham,Oregon,109892,83.5,21.2,7.5,6.4,46457,23.3
+Hillsboro,Oregon,99393,90.4,40,16.8,4.9,72242,24
+Medford,Oregon,78557,85.9,20.9,6.5,7.1,40806,23.2
+Northwest Clackamas,Oregon,248034,90.3,32,10.9,4.9,70404,25.7
+Portland,Oregon,619360,91.3,48.6,19.2,5.7,60892,23.3
+Salem,Oregon,161637,86.8,25.9,10.2,8.3,49037,29.5
+Somerset West-Rock Creek,Oregon,62062,94.6,46,16.3,3.8,77929,24
+Springfield,Oregon,60263,86.2,15.9,4.6,6.7,42625,26.1
+Tigard,Oregon,50787,91.9,42.6,14.1,4.7,65481,24
+Allentown,Pennsylvania,119104,77.5,15.5,4.5,7.2,36655,26.4
+Bethlehem,Pennsylvania,75135,90.2,28.3,12.5,8,47289,30.1
+Erie,Pennsylvania,99452,87.4,20.5,6.4,8.1,35139,29.8
+Lancaster,Pennsylvania,59302,76.3,19.5,7.2,7.8,36256,27.4
+Levittown,Pennsylvania,52983,92.3,16.3,4.6,4.2,72587,23.3
+Philadelphia,Pennsylvania,1560297,83.1,27.4,10.9,9.2,41233,29.1
+Pittsburgh,Pennsylvania,305412,92,41.3,20.4,6.8,41293,26.3
+Reading,Pennsylvania,87812,70,11.5,3.4,9.2,26531,28
+Scranton,Pennsylvania,75281,81.6,20.1,5.6,7.3,36630,25.3
+Cranston,Rhode Island,81037,89.7,32.2,13.3,4.8,61963,24
+Pawtucket,Rhode Island,71499,82.1,20.4,8.5,7.1,43886,24
+Providence,Rhode Island,179154,77.5,30.1,13.5,9.3,39015,24
+Warwick,Rhode Island,81963,92.4,34.2,10.5,5.7,74570,22.6
+Charleston,South Carolina,130113,94.7,50.2,17.7,6.6,61993,25.5
+Columbia,South Carolina,132067,88,40.7,18,10.2,41435,30
+Dutch Fork,South Carolina,66450,89.3,35,10.9,3.1,55536,30
+Greenville,South Carolina,62252,87.7,42.7,17.3,6.3,43059,24.4
+Mount Pleasant,South Carolina,77796,97.8,64.6,22.7,3,82826,25.5
+North Charleston,South Carolina,106749,85.5,22.6,7.1,9.5,40365,25.5
+Rock Hill,South Carolina,69967,88,29.7,10.9,9.9,40885,28
+Rapid City,South Dakota,72638,95.7,32.1,9.7,4.8,49702,24.5
+Sioux Falls,South Dakota,168586,90.2,33.5,9.7,3.2,53802,26.7
+Bartlett,Tennessee,58264,94.2,35.6,12.8,2.3,82666,32.8
+Chattanooga,Tennessee,173778,82.9,26,10.3,7.7,40004,28.5
+Clarksville,Tennessee,146806,93.7,26.4,9.4,7.2,46113,29.6
+Franklin,Tennessee,70612,94.7,57.7,21.5,3.2,91786,25.1
+Hendersonville,Tennessee,55153,93.8,32.8,10.1,3.6,64339,28.2
+Jackson,Tennessee,67319,91.6,30.1,11.1,4.3,43876,30.5
+Johnson City,Tennessee,65813,91,40.3,14.9,6,40481,29
+Kingsport,Tennessee,53028,87.6,25.3,10.5,4.8,39012,30.2
+Knoxville,Tennessee,184281,88.9,29.2,12.4,6.5,37200,27.5
+Memphis,Tennessee,656861,84,24.9,9.8,8.7,36908,32.8
+Metropolitan Government,Tennessee,620916,81.5,30.5,10.4,5.2,52026,30.1
+Murfreesboro,Tennessee,120954,92,39.5,13.4,7.6,52266,30.9
+Nashville-Davidson,Tennessee,644014,88.1,37.9,14.7,3.6,51393,30.1
+Abilene,Texas,120958,83.2,24.6,7.7,8.9,43059,27
+Allen,Texas,94179,95.6,51.6,17.1,2.5,91204,24
+Amarillo,Texas,197254,83.1,22.2,7.3,5.5,45818,29.7
+Arlington,Texas,383204,84.6,29.1,8.4,4.2,51400,26.1
+Atascocita,Texas,65844,90.9,31.9,9,2.8,80127,26
+Austin,Texas,912791,87.5,46.7,16.9,4.9,56351,21.7
+Baytown,Texas,76127,77.3,16.2,3.9,7.6,51791,26
+Beaumont,Texas,117585,85.5,23.5,8.3,8.2,47570,30.3
+Brazosport,Texas,71908,77.1,19.4,5.8,7.2,62049,29.1
+Brownsville,Texas,183046,64,16.1,4,13,34050,25.4
+Bryan,Texas,80913,82.9,30.2,12,5.3,44486,26.4
+Carrollton,Texas,128353,85.4,36.3,11.1,3,67365,27.1
+Cedar Park,Texas,63574,95.5,44.4,14.1,1.9,90762,24.1
+College Station,Texas,103483,91.7,54.5,25.5,12.8,37478,26.4
+Conroe,Texas,65871,78.8,27.1,10.3,7,50112,24.9
+Corpus Christi,Texas,320434,81.1,20.9,7.1,7.3,51255,26.6
+Dallas,Texas,1281047,74.8,31.8,11.5,4.1,45918,27.1
+DeSoto,Texas,51934,90.5,30.5,10.1,4.6,61062,27.1
+Denton,Texas,128205,89,35.8,12.8,7.3,52023,28.4
+East Grayson,Texas,86658,79.2,17.2,6,5.1,46843,25.4
+East Jefferson,Texas,111383,76.9,12.6,3.3,8.9,48694,30.3
+Edinburg,Texas,83014,74.7,26.1,8.4,9.7,41004,28.7
+El Paso,Texas,679036,79.4,24.3,7,5.2,45069,24
+Euless,Texas,53630,90.3,33.1,8.9,2.8,56871,26.1
+Flower Mound,Texas,69650,97.1,61,21.4,2.5,120084,28.4
+Fort Worth,Texas,812238,80.9,27.3,8.6,5,55888,26.1
+Frisco,Texas,145035,96.7,60.3,21,2.3,123055,24
+Garland,Texas,235501,78.2,22.8,6.2,4.6,55725,27.1
+Georgetown,Texas,59102,92.5,44,17.4,5,66940,24.1
+Grand Prairie,Texas,185453,78.7,24.1,6.6,5.4,60838,27.1
+Grapevine,Texas,50844,93.2,46.2,15.5,2.5,81812,26.1
+Harlingen,Texas,65914,73.3,15.8,5.9,4.9,35810,25.4
+Houston,Texas,2239558,77.7,30.9,12,4.8,48064,26
+Irving,Texas,232406,78.7,35.4,15.6,4.3,56846,27.1
+Killeen,Texas,138154,92.1,20.7,5.2,9,44716,27.5
+Laredo,Texas,252309,67.5,17.8,5,9,40660,28
+League City,Texas,94403,95.3,43,14.3,4,111819,28.4
+Lewisville,Texas,102889,87.2,33,8.7,3.5,56254,28.4
+Longview,Texas,81593,82,20.4,6.3,7.3,44969,29.1
+Lubbock,Texas,243839,84.6,26.8,10.1,6,45551,26
+Mansfield,Texas,62246,94.4,41.3,11.8,3.9,93198,26.1
+McAllen,Texas,138596,74,27.9,8.4,8.7,45186,28.7
+McKinney,Texas,156767,92.3,47.2,15.6,2,83317,24
+Mesquite,Texas,144416,79.1,17.3,5.7,3.7,47518,27.1
+Midland,Texas,128037,85.7,28.1,8.7,5.4,80700,26.4
+Mission,Texas,82431,70.9,27.3,9.7,10.6,47205,28.7
+Missouri City,Texas,71710,93.8,47.4,18.8,4.5,92696,25.8
+New Braunfels,Texas,66394,89.5,33.5,10.1,3.8,61330,24.1
+North Richland Hills,Texas,68529,91.6,27.3,6.8,3.7,61498,26.1
+Northeast Harris,Texas,50134,80.4,11.3,3.2,6.3,65614,26
+Northeast Tarrant,Texas,472730,89.6,32,8.7,3,77367,26.1
+Northwest Harris,Texas,464301,88.9,35.3,9.4,3.6,81585,26
+Odessa,Texas,114597,80.1,19.5,5,7.3,66585,28.6
+Pasadena,Texas,153887,70.2,13.8,3.5,7.1,50236,26
+Pearland,Texas,103441,96.6,48.6,15.4,3.9,97209,29.1
+Pflugerville,Texas,54644,92.9,37.1,11.3,2.4,81209,21.7
+Pharr,Texas,75382,59.4,9.5,3.4,10.5,33269,28.7
+Plano,Texas,278480,92.7,54.2,21.1,2.8,83769,24
+Port Arthur,Texas,54548,71.9,10.8,2.8,13.3,36233,30.3
+Richardson,Texas,108617,92.5,53.2,19.5,3.2,80398,27.1
+Round Rock,Texas,112744,91.3,36.2,11.9,3.9,75974,24.1
+Rowlett,Texas,58407,90.4,31.7,9.5,3.7,85953,27.1
+San Angelo,Texas,98975,82.9,23.4,7.2,7,46353,26.6
+San Antonio,Texas,1436697,81,24.2,8.2,5,48869,26.3
+San Marcos,Texas,58892,85.7,30.9,9,8.7,29065,24.8
+Southeast Harris,Texas,93921,88,23.2,7.5,4.8,79949,26
+Southeast Hidalgo,Texas,124914,46.5,9.2,2.8,14.7,32867,28.7
+Southeast Montgomery,Texas,288750,80.8,27.4,8.6,4.6,70796,24.9
+Spring,Texas,54298,90.4,21.4,6.3,3.7,69136,26
+Sugar Land,Texas,86777,94.5,59.9,24.9,4.1,111124,25.8
+Temple,Texas,70765,89.9,26.7,8.6,4.8,44749,27.5
+The Woodlands,Texas,93847,97.1,61.4,22.6,2.7,111327,24.9
+Tyler,Texas,101421,82.7,29.1,9.2,3.7,43222,26.7
+Victoria,Texas,66094,82.8,23.7,8.2,4.9,53779,27.7
+Waco,Texas,130194,83.7,24.7,9.2,11.6,36792,31.3
+Wichita Falls,Texas,105114,81.3,22.9,7.8,6.5,44448,26.4
+Layton,Utah,72231,94.1,29.5,8.3,4.5,73242,23.4
+Lehi,Utah,56275,96.8,39.8,10.6,2.9,81792,24.5
+Millcreek,Utah,62139,94.1,44.1,16.4,5.2,60993,22.7
+North Davis,Utah,179550,91.6,25.3,6.8,5,69208,23.4
+Ogden,Utah,84316,83.1,19,6.7,8.7,42460,25.7
+Orem,Utah,91781,88.4,35.4,11.6,4.6,55581,24.5
+Provo,Utah,114801,91.6,43.3,12.8,6.4,46388,24.5
+Salt Lake City,Utah,190884,90.5,44.4,19.7,5.8,48761,22.7
+Sandy,Utah,91148,94.8,38.9,11.8,2.3,81581,22.7
+South Davis,Utah,106781,93.2,34.2,10.1,3.4,77624,23.4
+South Jordan,Utah,62781,97.3,43.1,15.6,2.7,99681,22.7
+St. George,Utah,78505,91.8,26.7,11,6.1,55094,22.6
+Taylorsville,Utah,60433,88.9,21.5,6,3.7,61894,22.7
+West Jordan,Utah,110920,92.1,24,6,2.7,68928,22.7
+West Valley City,Utah,134495,78.7,13.7,4.1,5.8,57111,22.7
+Alexandria,Virginia,150575,89.6,62.2,30.3,3.2,86775,21.4
+Arlington,Virginia,207627,95.6,74.3,39.1,2.8,102501,20.7
+Centreville,Virginia,71135,93.4,56.9,24.1,2.4,104056,22.2
+Chesapeake,Virginia,233371,91.7,31.8,11.8,4.1,67491,26.9
+Dale City,Virginia,65969,80.7,24.7,9.2,3.5,82994,28.2
+Hampton,Virginia,136879,90,24.8,8.3,6.6,51867,32.7
+Harrisonburg,Virginia,52478,84.1,35.8,15.2,9.3,37477,26.7
+Lynchburg,Virginia,79047,87.6,33,13.8,4.9,39374,28.7
+Newport News,Virginia,182965,90.7,24.6,9.1,5.6,48630,29.8
+Norfolk,Virginia,245428,87.3,26.6,10.8,9,45996,28.5
+Portsmouth,Virginia,96004,85.1,23.6,8.4,7.7,49242,15.8
+Reston,Virginia,58404,95.5,66.8,30.6,3.1,111044,22.2
+Richmond,Virginia,217853,85.8,37.7,14.6,8,39906,29
+Roanoke,Virginia,99428,85,21.7,8.2,5.8,39835,16.5
+Suffolk,Virginia,86806,87.2,27.7,11.4,4.9,61203,29.7
+Virginia Beach,Virginia,450980,93,32.8,11.1,4.5,67281,25.4
+Auburn,Washington,76347,91.1,22.5,6.4,6.1,55105,20.5
+Bellevue,Washington,136426,95.7,65.6,28.2,4.1,98804,20.5
+Bellingham,Washington,83365,95.1,41.1,15.3,10.3,49245,23.1
+Burien,Washington,50188,83.3,23.7,7.1,3.6,58430,20.5
+East Seattle,Washington,512735,93.9,47.3,15.4,3.5,100619,20.5
+Enumclaw Plateau,Washington,57513,89.3,20.9,5.6,4.3,93736,20.5
+Everett,Washington,106736,87.9,22.1,6.1,8.1,51755,27.4
+Federal Way,Washington,93425,90.3,25.1,8.1,5.2,62174,20.5
+Graham-Thrift,Washington,62639,88.6,17.2,5,5.7,76775,29.3
+Issaquah Plateau,Washington,53651,96.9,55.1,19.2,2.3,125313,20.5
+Kennewick,Washington,77421,87.6,22.4,7.6,6.6,52202,27.5
+Kent,Washington,125560,87.4,23.1,6.3,5.7,66790,20.5
+Kirkland,Washington,85763,94.9,58.3,22,4.3,102420,20.5
+Lakewood,Washington,59610,88.1,19.8,6.6,7.8,45062,29.3
+Marysville,Washington,65087,90.6,21.4,7.2,5.3,75120,27.4
+Pasco,Washington,68648,75.3,18.9,6.3,12.3,60054,18.4
+Redmond,Washington,59285,95.3,64.7,29.3,3.9,112492,20.5
+Renton,Washington,98404,91.1,37.8,10.2,4.3,68656,20.5
+Richland,Washington,53019,95.4,45.1,18.7,4.3,69984,27.5
+Sammamish,Washington,51229,98.2,73,28.3,1.9,160291,20.5
+Seattle,Washington,668342,94.7,62.1,25.4,3.7,80349,20.5
+Shoreline,Washington,55174,90.9,42.2,14.9,4.6,71819,20.5
+South Hill,Washington,52431,94.3,25,8.2,4.9,75510,29.3
+Spokane Valley,Washington,91729,91.8,21.8,7.8,5.9,48525,27.2
+Spokane,Washington,212052,93.7,30.3,11.7,9,44350,27.2
+Tacoma,Washington,205159,88.4,28,9.1,7.8,52437,29.3
+Tahoma-Maple Valley,Washington,56368,92.3,29.9,7.6,4,102071,20.5
+Vancouver,Washington,169294,89.3,27.9,10.1,6.6,51988,27.6
+Yakima,Washington,93357,75.3,19.1,7.8,12.4,44050,29.2
+Appleton,Wisconsin,73971,91.5,31.7,9.7,3.4,52088,27.1
+Eau Claire,Wisconsin,67684,92.6,33.4,10.9,5,48631,25.6
+Green Bay,Wisconsin,104891,88,24.7,6.6,5,41811,26.7
+Janesville,Wisconsin,64009,91,21.3,7.3,4.7,52363,27.5
+Kenosha,Wisconsin,99894,89.1,22.3,6.6,6.2,48235,13.9
+La Crosse,Wisconsin,52440,92.3,31.1,11.6,4.6,40237,12.4
+Madison,Wisconsin,245691,93.6,55,23.4,4.8,57690,23.9
+Milwaukee,Wisconsin,599642,82.7,23.9,7.5,9.4,37495,29.6
+Oshkosh,Wisconsin,66621,89.8,22.7,5.8,5,44689,26.3
+Racine,Wisconsin,78065,81.3,17.7,5.2,7,42472,28
+Waukesha,Wisconsin,71489,92.2,35.9,12.7,3,60734,26.8
+West Allis,Wisconsin,60624,90,23.3,5.4,4.1,47268,29.6
+Charleston,West Virginia,50404,91.9,39.7,19.1,5.8,47540,29.6
+Casper,Wyoming,60086,91.8,23.1,7.6,4.9,53741,25
+Cheyenne,Wyoming,62845,93.4,29.3,11,5.2,58116,24.2
